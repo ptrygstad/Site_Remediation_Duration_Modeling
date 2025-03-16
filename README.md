@@ -10,7 +10,29 @@ DS740: Data Mining and Maching Learning
 
 University of Wisconsin Green Bay
 #
-Data used: 
+SUMMARY:
+
+This project uses environmental contamination site data from New York State to model the remediation duration. 
+
+Accurate assessment of product duration could assist stakeholders in accurate planning.
+#
+FILES INCLUDED IN THIS REPO:
+
+Source .csv file
+
+Data Dicitonary to explain fields in the source file
+
+Data Overview file to explain terms found in the data dictionary
+
+Remediation Duration Modeling Rstudio file
+
+Executive Summary containing analysis and findings
+#
+SOFTWARE USED:
+
+Rstudio, Posit Software
+#
+DATA USED:
 
 NYS Environmental Remediation Sites
 
